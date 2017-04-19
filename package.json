@@ -1,0 +1,16 @@
+{
+  "name": "teste_fabrica",
+  "version": "1.0.0",
+  "description": "Teste para a fabrica de aplicativos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^3.1.0"
+  }
+}
